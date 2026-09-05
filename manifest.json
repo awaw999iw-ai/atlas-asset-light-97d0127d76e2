@@ -1,0 +1,41 @@
+{
+  "asset_id": "ASSET-LIGHT-97d0127d76e2",
+  "created_at_utc": "2026-09-05T20:38:26.190553+00:00",
+  "ownership": "OWNER_OWNED",
+  "transferable": true,
+  "portfolio_candidate": true,
+  "blueprint_id": "URL_PARAMETER_TOOL",
+  "generation": 1,
+  "type": "URL_TOOL",
+  "name": "URL Parameter Tool",
+  "topic": "URL Parameter Tool",
+  "status": "HYPOTHESIS",
+  "product_spec": {
+    "core_action": "build, inspect and normalize URL query parameters",
+    "repeat_reason": "tracking and API URLs repeatedly need editing",
+    "paid_extension": "saved presets, bulk operations, API access"
+  },
+  "monetization_hypothesis": "saved presets, bulk operations, API access",
+  "mission_fit": {
+    "owned_asset": true,
+    "requires_employment": false,
+    "requires_manual_service": false,
+    "affiliate_only": false,
+    "zero_spend_build": true,
+    "local_llm": false
+  },
+  "evidence": {
+    "real_users": 0,
+    "verified_revenue_rub": 0,
+    "strong_external_evidence": false
+  },
+  "growth": {
+    "acquisition_attempts": 0
+  },
+  "built_at_utc": "2026-09-05T20:38:26.333462+00:00",
+  "asset_path": "assets/light/ASSET-LIGHT-97d0127d76e2",
+  "artifact_type": "OWNED_DIGITAL_ASSET_MVP",
+  "local_llm": false,
+  "spend_rub": 0,
+  "reusable": true
+}
